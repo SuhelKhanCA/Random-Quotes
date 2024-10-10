@@ -1,1 +1,15 @@
-.
+**/venv/
+**/.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Build artifacts
+/build/
+/dist/
+
+
+
+# Logs and databases
+*.log
